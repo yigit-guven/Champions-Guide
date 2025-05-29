@@ -1,16 +1,51 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+Champion's Guide - Personal Use License
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Effective Date: 2025
+Licensor: Harun Yiğit Güven (Google Play: Yiğit Güven, GitHub: yigit-guven)
+Project: Champion's Guide (Uses Riot Games API)
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
+1. LICENSE GRANT
+You are granted a non-exclusive, revocable license to:
+- Use the software for personal, non-commercial purposes
+- View and modify the source code for private learning
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- NonCommercial — You may not use the material for commercial purposes.
-- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+2. STRICT PROHIBITIONS
+You MAY NOT:
+- Redistribute this software in any form (source/compiled)
+- Share copies with others (including via APK/files)
+- Upload to app stores, GitHub, or other platforms
+- Remove/modify Riot Games API attribution (see Section 4)
+- Monetize through ads, subscriptions, or paid access
+- Use for commercial purposes (e.g., esports services)
 
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+3. RIOT GAMES API COMPLIANCE
+This project contains materials owned by Riot Games:
+- You must comply with Riot's Legal Jibber-Jabber (https://www.riotgames.com/en/legal)
+- Champion's Guide isn't endorsed by Riot Games
+- API data may only be used per Riot's terms
 
-To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+4. ATTRIBUTION REQUIREMENTS
+Any permitted use must include:
+- Original copyright: "© 2025 Harun Yiğit Güven"
+- Riot Games notice: "This isn't endorsed by Riot Games"
+- Google Play link: https://play.google.com/store/apps/dev?id=7128980680944660685
+
+5. TERMINATION
+Violations automatically terminate your rights.
+
+6. DISCLAIMER
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY. THE AUTHOR IS NOT LIABLE FOR:
+- API disruptions from Riot Games
+- Account bans related to third-party tools
+- Damages from software use
+
+7. LEGAL
+Governing Law: Turkey (Türkiye)
+Violations may result in:
+- DMCA takedowns
+- Google Play policy reports
+- Legal action under Turkish law
+
+=== NOTICE ===
+This license is stricter than standard open-source licenses.
+Contact yigit-guven (GitHub) for any usage inquiries.
