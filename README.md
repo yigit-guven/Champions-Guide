@@ -12,7 +12,7 @@ Champion's Guide is a free and open-source companion app for **League of Legends
 
 ## License
 
-This project is licensed under the [CC BY-NC-SA 4.0 License](LICENSE).  
+This project is licensed under the [Custom License](LICENSE).  
 Created and maintained by [@yigit-guven](https://github.com/yigit-guven).
 
 ## Disclaimer
